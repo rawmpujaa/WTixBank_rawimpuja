@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475861985374",
+    "project_id": "rawimpuja-8fb78",
+    "storage_bucket": "rawimpuja-8fb78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475861985374:android:039a4058b6ad107f896ccf",
+        "android_client_info": {
+          "package_name": "com.example.rawimpuja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr5Zx5TpqIy8jPz8I-MTvxjPxQf0A-CSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
